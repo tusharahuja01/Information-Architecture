@@ -7781,7 +7781,8 @@ To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLeve
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>                                                                                </pre>
+<pre>                                                                                
+</pre>
 </div>
 </div>
 </div>
@@ -7960,7 +7961,8 @@ only showing top 5 rows
 25/03/05 14:47:23 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:47:23 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:47:23 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
-[Stage 8:&gt;                                                          (0 + 8) / 9]</pre>
+[Stage 8:&gt;                                                          (0 + 8) / 9]
+</pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
@@ -7973,7 +7975,8 @@ only showing top 5 rows
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>                                                                                </pre>
+<pre>                                                                                
+</pre>
 </div>
 </div>
 </div>
@@ -8055,7 +8058,8 @@ only showing top 5 rows
 25/03/05 14:47:30 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:47:30 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:47:30 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
-[Stage 14:&gt;                                                         (0 + 8) / 9]</pre>
+[Stage 14:&gt;                                                         (0 + 8) / 9]
+</pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
@@ -8068,7 +8072,8 @@ only showing top 5 rows
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>                                                                                </pre>
+<pre>                                                                                
+</pre>
 </div>
 </div>
 </div>
@@ -8128,7 +8133,8 @@ only showing top 5 rows
 25/03/05 14:47:33 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:47:33 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:47:33 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
-[Stage 18:====================================&gt;                     (5 + 3) / 8]</pre>
+[Stage 18:====================================&gt;                     (5 + 3) / 8]
+</pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
@@ -8151,7 +8157,8 @@ only showing top 5 rows
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>                                                                                </pre>
+<pre>                                                                                
+</pre>
 </div>
 </div>
 </div>
@@ -8251,7 +8258,8 @@ only showing top 5 rows
 25/03/05 14:47:41 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:47:41 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:47:41 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
-[Stage 23:&gt;                                                         (0 + 8) / 9]</pre>
+[Stage 23:&gt;                                                         (0 + 8) / 9]
+</pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
@@ -8273,7 +8281,8 @@ only showing top 5 rows
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>                                                                                </pre>
+<pre>                                                                                
+</pre>
 </div>
 </div>
 </div>
@@ -8373,7 +8382,8 @@ only showing top 5 rows
 25/03/05 14:47:47 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:47:47 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:47:47 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
-[Stage 29:&gt;                                                         (0 + 8) / 9]</pre>
+[Stage 29:&gt;                                                         (0 + 8) / 9]
+</pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
@@ -8401,7 +8411,8 @@ only showing top 10 rows
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>                                                                                </pre>
+<pre>                                                                                
+</pre>
 </div>
 </div>
 </div>
@@ -8543,7 +8554,8 @@ only showing top 10 rows
 25/03/05 14:49:46 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:49:46 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:49:46 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
-[Stage 35:===================================================&gt;      (8 + 1) / 9]</pre>
+[Stage 35:===================================================&gt;      (8 + 1) / 9]
+</pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
@@ -8571,7 +8583,8 @@ only showing top 10 rows
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>                                                                                </pre>
+<pre>                                                                                
+</pre>
 </div>
 </div>
 </div>
@@ -8676,7 +8689,8 @@ only showing top 10 rows
 25/03/05 14:36:27 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:36:27 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:36:27 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
-[Stage 41:&gt;                                                         (0 + 8) / 9]</pre>
+[Stage 41:&gt;                                                         (0 + 8) / 9]
+</pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
@@ -8704,7 +8718,8 @@ only showing top 10 rows
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>                                                                                </pre>
+<pre>                                                                                
+</pre>
 </div>
 </div>
 </div>
@@ -8843,7 +8858,8 @@ only showing top 10 rows
 25/03/05 14:55:35 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:55:35 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:55:35 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
-                                                                                </pre>
+                                                                                
+</pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
@@ -8937,7 +8953,8 @@ only showing top 10 rows
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>                                                                                </pre>
+<pre>                                                                                
+</pre>
 </div>
 </div>
 </div>
@@ -9037,7 +9054,8 @@ only showing top 10 rows
 25/03/05 14:57:54 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:57:54 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 14:57:54 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
-[Stage 53:&gt;                                                         (0 + 8) / 9]</pre>
+[Stage 53:&gt;                                                         (0 + 8) / 9]
+</pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
@@ -9065,7 +9083,8 @@ only showing top 10 rows
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>                                                                                </pre>
+<pre>                                                                                
+</pre>
 </div>
 </div>
 </div>
@@ -9189,7 +9208,8 @@ only showing top 10 rows
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>                                                                                </pre>
+<pre>                                                                                
+</pre>
 </div>
 </div>
 </div>
@@ -9363,7 +9383,8 @@ only showing top 10 rows
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>                                                                                </pre>
+<pre>                                                                                
+</pre>
 </div>
 </div>
 </div>
@@ -9504,7 +9525,8 @@ only showing top 20 rows
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>                                                                                </pre>
+<pre>                                                                                
+</pre>
 </div>
 </div>
 </div>
@@ -9769,7 +9791,8 @@ only showing top 20 rows
 25/03/05 17:28:13 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 17:28:13 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 17:28:13 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
-                                                                                </pre>
+                                                                                
+</pre>
 </div>
 </div>
 </div>
@@ -10034,7 +10057,8 @@ Passing `palette` without assigning `hue` is deprecated and will be removed in v
 25/03/05 17:35:16 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 17:35:16 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 17:35:16 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
-                                                                                </pre>
+                                                                                
+</pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
@@ -10100,7 +10124,8 @@ only showing top 10 rows
 25/03/05 17:35:20 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 17:35:20 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
 25/03/05 17:35:20 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
-                                                                                </pre>
+                                                                                
+</pre>
 </div>
 </div>
 </div>
